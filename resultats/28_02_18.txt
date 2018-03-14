@@ -1,0 +1,535 @@
+I am an angry iguana.
+iguanas are angry.
+Sally is happy.
+I am a sad panda.
+Mickey is happy.
+You are an angry sally.
+iguanas are angry.
+I am a happy fox.
+Joe is sad.
+I am a sad iguana.
+pandas are sad.
+You are a happy mickey.
+Joe is sad.
+I am an angry iguana.
+I am a sad panda.
+You are a sad sally.
+I am a sad iguana.
+I am a sad iguana.
+I am an angry fox.
+foxes are sad.
+You are a happy mickey.
+You are a sad sally.
+iguanas are sad.
+You are a happy sally.
+You are a happy sally.
+I am an angry panda.
+pandas are sad.
+I am a sad iguana.
+You are a sad joe.
+You are an angry mickey.
+Sally is sad.
+You are an angry joe.
+You are a happy joe.
+Mickey is sad.
+Joe is angry.
+I am a sad iguana.
+Mickey is angry.
+Sally is happy.
+Sally is happy.
+Joe is sad.
+Sally is sad.
+You are a sad sally.
+You are an angry mickey.
+I am a sad panda.
+You are a happy sally.
+Joe is angry.
+iguanas are happy.
+I am a happy panda.
+You are a sad sally.
+Mickey is happy.
+pandas are angry.
+iguanas are angry.
+iguanas are happy.
+iguanas are happy.
+Sally is sad.
+pandas are happy.
+Joe is happy.
+iguanas are happy.
+foxes are happy.
+Mickey is sad.
+I am an angry fox.
+I am a sad iguana.
+I am an angry panda.
+I am an angry panda.
+Mickey is sad.
+Joe is happy.
+pandas are sad.
+I am a happy iguana.
+I am a sad panda.
+iguanas are angry.
+You are a sad joe.
+foxes are sad.
+Sally is sad.
+I am a sad fox.
+pandas are sad.
+Sally is sad.
+I am a sad iguana.
+Joe is happy.
+iguanas are sad.
+pandas are sad.
+Mickey is sad.
+iguanas are happy.
+You are a sad joe.
+You are a happy sally.
+You are an angry sally.
+iguanas are sad.
+I am a sad fox.
+Sally is angry.
+You are an angry joe.
+foxes are sad.
+pandas are happy.
+You are an angry mickey.
+Mickey is sad.
+foxes are sad.
+pandas are sad.
+Mickey is happy.
+You are an angry mickey.
+Sally is happy.
+Sally is happy.
+You are a sad joe.
+You are an angry mickey.
+iguanas are sad.
+I am a sad fox.
+Mickey is happy.
+foxes are sad.
+foxes are happy.
+foxes are angry.
+Mickey is angry.
+You are a sad sally.
+I am a happy panda.
+You are an angry sally.
+I am an angry panda.
+Mickey is angry.
+I am a happy fox.
+You are a sad mickey.
+iguanas are happy.
+I am a sad fox.
+Joe is angry.
+foxes are sad.
+I am a sad iguana.
+foxes are angry.
+Mickey is happy.
+You are an angry sally.
+Mickey is sad.
+Joe is happy.
+You are an angry joe.
+You are a happy mickey.
+Mickey is happy.
+Sally is angry.
+I am an angry panda.
+I am a sad panda.
+Joe is happy.
+You are an angry joe.
+pandas are happy.
+I am a happy fox.
+iguanas are angry.
+Mickey is angry.
+iguanas are angry.
+I am an angry panda.
+foxes are angry.
+I am a happy fox.
+You are an angry sally.
+I am a happy panda.
+pandas are angry.
+iguanas are sad.
+Mickey is happy.
+I am a sad panda.
+Joe is angry.
+I am a happy panda.
+iguanas are angry.
+I am an angry iguana.
+You are a happy mickey.
+You are a happy sally.
+I am an angry fox.
+You are an angry mickey.
+Mickey is sad.
+I am an angry iguana.
+I am a sad iguana.
+You are a sad joe.
+I am a happy panda.
+You are a happy joe.
+You are a happy sally.
+You are a happy sally.
+You are an angry joe.
+You are a happy sally.
+Mickey is angry.
+Sally is sad.
+You are an angry joe.
+Joe is angry.
+You are an angry joe.
+foxes are happy.
+iguanas are sad.
+You are an angry joe.
+You are an angry joe.
+Mickey is happy.
+You are a happy joe.
+You are a happy mickey.
+iguanas are angry.
+I am an angry panda.
+I am a happy fox.
+I am a sad iguana.
+You are an angry mickey.
+foxes are angry.
+You are a sad mickey.
+I am an angry iguana.
+You are an angry mickey.
+I am a happy fox.
+I am a sad fox.
+Mickey is sad.
+Joe is angry.
+Joe is sad.
+Joe is happy.
+You are a sad sally.
+Joe is angry.
+You are an angry sally.
+I am a happy iguana.
+You are a happy sally.
+foxes are happy.
+You are a sad sally.
+iguanas are sad.
+You are a sad joe.
+You are an angry mickey.
+pandas are sad.
+You are a sad sally.
+Sally is angry.
+You are a sad mickey.
+You are a happy sally.
+foxes are sad.
+I am an angry panda.
+Joe is happy.
+Sally is sad.
+Sally is angry.
+Joe is angry.
+I am a sad panda.
+I am a sad iguana.
+I am an angry iguana.
+You are a happy sally.
+I am a happy panda.
+You are an angry sally.
+You are a sad sally.
+You are a happy joe.
+I am an angry fox.
+You are an angry sally.
+Sally is happy.
+You are a sad mickey.
+You are an angry sally.
+I am a sad fox.
+You are a happy joe.
+I am an angry panda.
+iguanas are happy.
+foxes are happy.
+I am a sad fox.
+You are a sad mickey.
+Mickey is happy.
+I am a happy panda.
+iguanas are sad.
+I am an angry iguana.
+iguanas are angry.
+I am a sad panda.
+You are a happy mickey.
+Joe is happy.
+I am a happy iguana.
+You are a happy mickey.
+I am a sad panda.
+You are a happy sally.
+You are a happy joe.
+foxes are sad.
+Mickey is happy.
+foxes are angry.
+foxes are happy.
+You are a happy joe.
+Joe is happy.
+Joe is sad.
+You are a sad sally.
+I am a happy fox.
+Joe is happy.
+Mickey is angry.
+I am an angry panda.
+iguanas are angry.
+I am an angry fox.
+Sally is angry.
+I am a sad iguana.
+You are a happy sally.
+I am a sad iguana.
+You are a sad mickey.
+Mickey is angry.
+Mickey is happy.
+I am an angry fox.
+I am an angry iguana.
+You are a happy sally.
+I am an angry fox.
+You are an angry mickey.
+You are a happy sally.
+I am an angry panda.
+Mickey is happy.
+Sally is sad.
+You are a sad sally.
+I am a happy iguana.
+Sally is happy.
+pandas are angry.
+pandas are sad.
+I am a sad panda.
+foxes are happy.
+Mickey is angry.
+You are an angry joe.
+I am a sad panda.
+Joe is sad.
+Mickey is angry.
+iguanas are sad.
+I am an angry iguana.
+I am a happy iguana.
+pandas are sad.
+You are a happy mickey.
+iguanas are sad.
+I am a happy panda.
+Joe is happy.
+You are a happy sally.
+Joe is happy.
+You are a sad sally.
+I am a sad fox.
+Mickey is sad.
+I am a sad fox.
+Mickey is happy.
+Joe is happy.
+I am a sad fox.
+You are a sad mickey.
+You are a happy joe.
+iguanas are sad.
+foxes are angry.
+foxes are angry.
+Mickey is sad.
+I am a happy iguana.
+I am a sad iguana.
+Joe is happy.
+iguanas are happy.
+Mickey is happy.
+I am a happy panda.
+pandas are happy.
+Sally is angry.
+I am a sad iguana.
+I am an angry fox.
+pandas are happy.
+Joe is happy.
+Mickey is angry.
+I am a happy fox.
+You are a happy mickey.
+pandas are happy.
+You are a happy sally.
+Mickey is happy.
+pandas are angry.
+You are an angry joe.
+I am an angry fox.
+pandas are angry.
+You are a happy joe.
+Sally is sad.
+You are a happy mickey.
+You are a happy joe.
+pandas are happy.
+You are an angry mickey.
+Mickey is happy.
+You are a sad sally.
+Mickey is happy.
+foxes are sad.
+You are a sad sally.
+Sally is happy.
+Joe is happy.
+pandas are angry.
+Sally is angry.
+Sally is happy.
+I am a sad panda.
+I am a happy iguana.
+You are a happy joe.
+I am an angry fox.
+You are a happy joe.
+You are a happy joe.
+iguanas are sad.
+foxes are sad.
+I am an angry iguana.
+iguanas are happy.
+iguanas are sad.
+Joe is angry.
+foxes are angry.
+foxes are angry.
+You are a sad sally.
+foxes are happy.
+I am a sad fox.
+iguanas are angry.
+Joe is happy.
+You are a happy mickey.
+Mickey is happy.
+I am an angry iguana.
+You are a sad joe.
+You are an angry joe.
+I am an angry panda.
+You are a sad sally.
+iguanas are sad.
+You are a happy sally.
+iguanas are happy.
+You are an angry joe.
+Sally is sad.
+You are a sad joe.
+Sally is angry.
+I am a sad panda.
+Mickey is sad.
+You are an angry sally.
+You are a happy joe.
+You are an angry joe.
+Joe is angry.
+You are an angry sally.
+You are a happy sally.
+Mickey is happy.
+iguanas are sad.
+Mickey is happy.
+foxes are happy.
+I am an angry fox.
+pandas are angry.
+Sally is sad.
+I am a sad panda.
+iguanas are happy.
+Mickey is sad.
+You are a sad joe.
+I am a happy fox.
+foxes are angry.
+Sally is happy.
+I am a sad fox.
+You are a sad sally.
+pandas are angry.
+You are a happy mickey.
+Mickey is sad.
+foxes are sad.
+Sally is happy.
+iguanas are sad.
+Joe is angry.
+I am a sad panda.
+Joe is happy.
+foxes are sad.
+I am a happy panda.
+You are a sad mickey.
+Sally is happy.
+You are an angry sally.
+You are an angry mickey.
+Sally is angry.
+pandas are sad.
+pandas are happy.
+You are a happy mickey.
+Mickey is happy.
+pandas are angry.
+pandas are happy.
+You are an angry sally.
+You are a happy joe.
+I am an angry panda.
+You are an angry mickey.
+I am an angry fox.
+You are an angry mickey.
+You are a sad sally.
+You are a sad sally.
+Sally is sad.
+Mickey is angry.
+foxes are happy.
+You are an angry mickey.
+Mickey is sad.
+foxes are happy.
+I am a sad panda.
+Sally is sad.
+I am a happy iguana.
+I am a sad panda.
+foxes are happy.
+Mickey is angry.
+Joe is sad.
+You are a happy sally.
+I am a happy fox.
+iguanas are angry.
+foxes are sad.
+I am an angry fox.
+You are a sad mickey.
+Sally is sad.
+I am an angry iguana.
+Sally is angry.
+I am a happy fox.
+I am a happy fox.
+Sally is happy.
+You are a happy mickey.
+I am a happy iguana.
+You are a happy sally.
+pandas are happy.
+Joe is sad.
+I am a happy panda.
+I am a sad panda.
+iguanas are angry.
+foxes are happy.
+foxes are angry.
+iguanas are happy.
+Joe is angry.
+You are a happy sally.
+I am an angry fox.
+I am a sad panda.
+Joe is angry.
+Sally is angry.
+Joe is sad.
+You are an angry mickey.
+I am a happy panda.
+iguanas are sad.
+pandas are sad.
+You are an angry mickey.
+Sally is angry.
+pandas are happy.
+pandas are happy.
+You are a happy mickey.
+pandas are sad.
+I am a happy panda.
+I am an angry iguana.
+Mickey is sad.
+Sally is happy.
+I am a sad panda.
+You are a happy sally.
+You are a happy mickey.
+You are a sad mickey.
+You are a sad sally.
+Mickey is sad.
+Joe is sad.
+You are a sad mickey.
+Sally is sad.
+Sally is angry.
+pandas are sad.
+Joe is happy.
+foxes are sad.
+Mickey is happy.
+Mickey is sad.
+I am a sad panda.
+You are a sad sally.
+I am a sad iguana.
+foxes are angry.
+Joe is happy.
+pandas are happy.
+iguanas are sad.
+You are a happy mickey.
+You are an angry sally.
+I am a sad fox.
+Joe is angry.
+You are an angry joe.
+Joe is happy.
+You are an angry joe.
+Sally is angry.
+I am an angry fox.
+I am a sad fox.
+You are an angry sally.
+You are an angry sally.
+Joe is angry.
+You are a happy joe.
+I am an angry panda.
+iguanas are happy.
+Mickey is sad.
+I am a sad fox.
+I am a sad fox.
+I am a sad panda.

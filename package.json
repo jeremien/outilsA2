@@ -1,0 +1,30 @@
+{
+  "name": "outils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "combined-stream": "^1.0.6",
+    "filter-values": "^0.4.1",
+    "google-news-rss": "^0.4.1",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.20.1",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "rita": "^1.3.11",
+    "srt-to-obj": "0.0.3",
+    "tracery-grammar": "^2.7.3",
+    "twit": "^2.2.9",
+    "underscore": "^1.8.3",
+    "wtf_wikipedia": "^2.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
