@@ -79,12 +79,30 @@ prompt.get(['occurence'], function(error, response) {
   -------------------------*/
 
   twitter.get('search/tweets', {
+    // objet qui determine les options de la recherche dans l'api de twitter
+    // q correspond à query > recherche > mot-clé > occurence (variable) qui est commun à toutes les apis
     q: occurence,
-    count: 1,
+    // count : nombre de tweet dans la réponse
+    count: 10,
+    // anglais
     language: 'en'
   },
   function(error, data, response){
-    console.log(data, response)
+    // chaine de caractère vide
+    let text = "";
+    // on boucle dans la réponse de l'api > objet data qui contient une propriété 'statuses'
+    // qui contient un tableau
+    // avec tous les tweets > qui sont dans la propriété 'text'
+    for (let key in data.statuses) {
+      // on ajoute à la variable text le contenu de la propriété text
+      text = text + '\n' + data.statuses[key].text;
+    }
+    // on appelle le module 'nettoyageTexte', et on lui passe
+    // notre var 'text'
+    text = modules.nettoyageTexte(text);
+    console.log(text);
+    // j'écris dans un fichier texte
+    modules.ecrire_texte(text, `./corpus/${date}_${occurence}_tweet.txt`);
   })
 
 
