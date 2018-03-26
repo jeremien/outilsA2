@@ -13,6 +13,7 @@
     "combined-stream": "^1.0.6",
     "filter-values": "^0.4.1",
     "google-news-rss": "^0.4.1",
+    "google-translate-api": "^2.3.0",
     "jsonfile": "^4.0.0",
     "moment": "^2.20.1",
     "prompt": "^1.0.0",

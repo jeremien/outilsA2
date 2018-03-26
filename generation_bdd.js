@@ -40,17 +40,17 @@ fs.readFile('./bdd/corpus.txt', function(err, data){
   // on stocke les adjectifs filtrés depuis l'objet
   let adjectif = filtreObj(obj, 'jj');
   // on stocke les noms 'nn'
-  let nn = filtreObj(obj, 'nn');
+  let nom = filtreObj(obj, 'nn');
   // on stocke les noms 'nn'
-  let vb = filtreObj(obj, 'vb');
+  let verbe = filtreObj(obj, 'vb');
 
   // on crée un nouvel objet et on lui assigne les adjectifs
 
   let bdd = {
-  "phrase": ["We #verbe# to #verbe# it./"],
+  "phrases": ["We #verbe# to #verbe# it./#pronom# #verbe#"],
   "adjectif":adjectif,
-  "nom": nn,
-  "verbe": vb,
+  "nom": nom,
+  "verbe": verbe,
   "pronom": ["we", "you"]
   }
 
