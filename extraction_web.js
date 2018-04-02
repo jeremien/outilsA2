@@ -22,14 +22,14 @@ let date = moment().format('DD_MM_YY');
 requestPromise(options)
   // action : on récupère le résultat de cheerio
   .then(function($) {
-
+    console.log($.text)
     // dans mots je stocke ma page web, les mots séparés
     let mots = separerTexte($, 'h2', ' ').join();
     console.log(mots);
     // dans resultat je stocke le texte nettoyé
-    let resultat = modules.nettoyageTexte(mots);
+    // let resultat = modules.nettoyageTexte(mots);
     // j'écris dans un fichier texte
-    modules.ecrire_texte(resultat, './corpus/'+ date +'texte.txt');
+    // modules.ecrire_texte(resultat, './corpus/'+ date +'texte.txt');
     //console.log(nettoyageTexte(mots))
 
   })
