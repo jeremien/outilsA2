@@ -1,3 +1,7 @@
+# app files
+bdd/*.json
+*.txt
+
 # Logs
 logs
 *.log
