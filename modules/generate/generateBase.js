@@ -3,6 +3,7 @@ const combined = require('combined-stream');
 const Rita = require('rita');
 const _ = require('underscore');
 const filter = require('filter-values');
+// TODO remplacer filter > braces vulnerable 
 const jsonfile = require('jsonfile');
 const moment = require('moment');
 

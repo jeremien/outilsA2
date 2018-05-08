@@ -1,5 +1,5 @@
 {
-  "name": "Ghost in the Machine",
+  "name": "outilsA2",
   "version": "1.0.0",
   "main": "app.js",
   "date": "08/05/2018",
@@ -12,7 +12,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "combined-stream": "^1.0.6",
-    "commonmark": "0.28.1",
     "file-type": "7.7.1",
     "filter-values": "^0.4.1",
     "glob": "7.1.2",
