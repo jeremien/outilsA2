@@ -4,18 +4,25 @@ const Rita = require('rita');
 const _ = require('underscore');
 const filter = require('filter-values');
 const jsonfile = require('jsonfile');
+const moment = require('moment');
 
-const generateCorpus = (appRoot, folder, callback) => {
-    let directory = `${appRoot}/${folder}`;
+const tools = require('../utils/tools');
 
-    fs.readdir(directory, function(error, files){
+let date = moment().format('DD_MM_YY');
+
+const generateCorpus = (appRoot, callback) => {
+    let directory = `${appRoot}/public/corpus`;
+
+    console.log(`generate corpus\n`);
+
+    fs.readdir(directory, (error, files) => {
         if (!error && files.length !== 0) {
             let flux = combined.create();
             files.forEach(function(file) {
                 flux.append(fs.createReadStream(`${directory}/${file}`));
             });
             flux.pipe(fs.createWriteStream(`${directory}/corpus.tmp`));
-            callback(undefined,`file corpus.tmp created in ${directory}`);
+            callback(undefined,`file corpus.tmp created in ${directory}\n`);
         } else {
             callback('unable to parse file');
         }
@@ -28,17 +35,22 @@ const filtreObj = (objet, pos) => {
     return res;
 };
 
-const generateBase = (appRoot, folder, callback) => {
+const generateBase = (appRoot, callback) => {
 
-    let directory = `${appRoot}/${folder}`;
-    let directoryBdd = `${appRoot}/bdd`;
+    let directory = `${appRoot}/public/corpus`;
+    let directoryBdd = `${appRoot}/public/bdd`;
+
+    console.log(`generate database\n`);
 
     let sentence = fs.readFileSync(`${directoryBdd}/sentence.tmp`,'utf8');
 
     fs.readFile(`${directory}/corpus.tmp`, (error, data) => {
 
         if (!error) {
-            const rita_string = Rita.RiString(data.toString());
+
+            let text = tools.nettoyageTexte(data.toString());
+
+            const rita_string = Rita.RiString(text);
             const posTag = rita_string.pos();
             const words = rita_string.words();
             let obj = {};
@@ -124,10 +136,13 @@ const generateBase = (appRoot, folder, callback) => {
                 "wrb" : wrb
             };
 
-            jsonfile.writeFile('./bdd/bdd.json', bdd, function(err) {
+            jsonfile.writeFile(`${directoryBdd}/${date}-bdd.json`, bdd, function(err) {
                 if (!err) {
-                    callback(undefined,`file bdd.json created in ${directory}`);
+                    callback(undefined,`file ${date}-bdd.json created in ${directoryBdd}\n`);
+                    console.log(`file corpus.tmp destroyed\n`);
                     fs.unlinkSync(`${directory}/corpus.tmp`);
+                } else {
+                  callback('unable to generate base', err);
                 }
             });
 

@@ -1,6 +1,16 @@
 # app files
 bdd/*.json
 *.txt
+*.pdf
+*.jpg
+*.srt
+*.html
+*.css
+*.eot
+*.otf
+*.svg
+*.ttf
+*.woff
 
 # Logs
 logs

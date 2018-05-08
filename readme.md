@@ -36,4 +36,6 @@ collection d'outils:
 
 - remplacer tracery par rita pour le texte génératif
 - convertisseur sub/ocr/pdf > detection de l'extension
-- mise en page automatisée 
+- mise en page automatisée
+- extracteur de sous-titres youtube
+- commande pour lister tous les fichiers textes/json etc

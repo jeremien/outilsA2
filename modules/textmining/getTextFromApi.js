@@ -14,6 +14,8 @@ const twitter = new Twit({
 
 const getTextFromApi = (tag, callback) => {
 
+    console.log(`searching ${tag} on google news, wikipedia and twitter\n`);
+
     const data = [];
 
     const news = new GoogleNewsRss();
@@ -42,6 +44,7 @@ const getTextFromApi = (tag, callback) => {
                 }
 
                 let str = data.join(', ');
+                console.log(`done! Results for ${tag} in corpus\n`);
                 callback(undefined, str);
             });
 

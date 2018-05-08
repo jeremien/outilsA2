@@ -1,31 +1,39 @@
 {
-  "name": "outils",
+  "name": "Ghost in the Machine",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
+  "date": "08/05/2018",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jérémie Nuel",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "combined-stream": "^1.0.6",
+    "commonmark": "0.28.1",
+    "file-type": "7.7.1",
     "filter-values": "^0.4.1",
+    "glob": "7.1.2",
     "google-news-rss": "^0.4.1",
-    "google-translate-api": "^2.3.0",
     "jsonfile": "^4.0.0",
     "moment": "^2.20.1",
+    "pdf-text-extract": "1.5.0",
+    "pdfkit": "0.8.3",
     "prompt": "^1.0.0",
     "request": "2.85.0",
     "request-promise": "^4.2.2",
     "rita": "^1.3.11",
     "srt-to-obj": "0.0.3",
+    "tesseractocr": "1.1.0",
     "tracery-grammar": "^2.7.3",
     "twit": "^2.2.9",
     "underscore": "^1.8.3",
+    "vtt-to-srt": "0.1.0",
     "wtf_wikipedia": "^2.6.1",
-    "yargs": "11.0.0"
+    "yargs": "11.0.0",
+    "youtube-dl": "1.12.2"
   },
   "devDependencies": {
     "eslint": "^4.19.1"

@@ -4,8 +4,11 @@ const _ = require('underscore');
 
 const getPosFromTxt = (appRoot,file, callback) => {
 
-  fs.readFile(`${appRoot}/sources/${file}`, (error, data) => {
+  fs.readFile(`${appRoot}/public/sources/${file}`, (error, data) => {
     if (!error) {
+
+        console.log(`analyse ${file}\n`);
+
         const rita_string = Rita.RiString(data.toString());
         const features = rita_string.features();
 
