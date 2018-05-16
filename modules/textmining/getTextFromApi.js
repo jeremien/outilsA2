@@ -4,10 +4,10 @@ const Twit = require('twit');
 
 const twitter = new Twit({
 
-    consumer_key: '0zeGnMiQaYsg56XbTiCrDo73Z',
-    consumer_secret: 'cU9bmitcE9Sor46GOtFUVa2zCXe1yvT8eqh140RtaZ2rJCRXBI',
-    access_token: '976063483-1T5RbOGBOdmxUDtChp8WAevIIyXuC7pbL52gOmwv',
-    access_token_secret: 'qX4RhvZfZjIHvLauNdNaYWreaFTbKJEnEzEewX5vORsCT'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token: '',
+    access_token_secret: ''
 
 });
 
