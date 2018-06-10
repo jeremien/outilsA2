@@ -39,3 +39,7 @@ collection d'outils:
 - mise en page automatisée
 - extracteur de sous-titres youtube
 - commande pour lister tous les fichiers textes/json etc
+- module de traduction à remplacer
+
+# pdftk
+$ pdftk couverture-couverture.txt.pdf anna-texte.txt.pdf iris-texte.txt.pdf leo-texte.txt.pdf lucas-texte.txt.pdf lucille-texte.txt.pdf maeva-texte.txt.pdf mathieu-texte.txt.pdf louise-texte.txt.pdf rose-texte.txt.pdf samy-texte.txt.pdf marie-texte.txt.pdf elena-texte.txt.pdf annexe-explication.txt.pdf cat output fantome.pdf

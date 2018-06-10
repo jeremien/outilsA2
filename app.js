@@ -79,9 +79,9 @@ const argv = yargs
     .command('talk', 'generate the talk from the database and the sentence <-- ./bdd --> ./resultats', {
         file: options.file
     })
-    // .command('translate', 'translate from a language to another <-- ./resultats ', {
-    //     file: options.file
-    // })
+    .command('translate', 'translate from a language to another <-- ./resultats ', {
+        file: options.file
+    })
     .command('print', 'generate a pdf from the text result file <-- ---> ./resultats', {
         file: options.file
     })
@@ -175,16 +175,16 @@ if (command === 'scrap') {
         }
     });
 
-// } else if (command === 'translate') {
-//
-//     translate.getGoogleTranslate(appRoot, argv.file, (err, res) => {
-//       if (err) {
-//         console.log(err);
-//       } else {
-//         console.log(`${res} \n\n *** file save in resultats *** \n`);
-//         tools.ecrireTexte(`${res}`, `${appRoot}/public/resultats/${date}-talk-fr.txt`);
-//       }
-//     });
+} else if (command === 'translate') {
+
+    translate.getTranslate(appRoot, argv.file, (err, res) => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log(`${res} \n\n *** file save in resultats *** \n`);
+        // tools.ecrireTexte(`${res}`, `${appRoot}/public/resultats/${date}-talk-fr.txt`);
+      }
+    });
 
 } else if (command === 'print') {
 
